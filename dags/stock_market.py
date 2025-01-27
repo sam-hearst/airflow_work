@@ -11,5 +11,5 @@ from datetime import datetime
 def stock_market():
     pass 
 
-stock_market():
-    
+def stock_market():
+    pass
